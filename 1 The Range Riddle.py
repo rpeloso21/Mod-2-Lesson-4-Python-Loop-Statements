@@ -1,3 +1,6 @@
+
+# Task 1
+
 import random
 
 moods = ["happy", "sad", "angry", "anxious", "energetic"]

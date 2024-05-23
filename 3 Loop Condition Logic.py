@@ -10,6 +10,7 @@ print("We have broken out of the loop.")
 
 
 # Task 2
+
 x = 1
 while x < 6:
     print(f"This loop has run {x} times.")

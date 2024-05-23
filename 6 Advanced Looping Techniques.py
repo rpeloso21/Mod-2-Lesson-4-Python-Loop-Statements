@@ -11,6 +11,7 @@ new_list = [genre + " Music" for genre in genres]
 print(new_list)
 
 # Task 3
+
 counter = 10
 for i in range(1, counter+1):
     print(f"The beat drops in {counter}!")
